@@ -1,4 +1,4 @@
-Simple chat app using android studio java and socket.io
+**Simple chat app using android studio java and socket.io**
 
 To use simply clone this repo and then run the backend file using npm start. And then run the test file in android studio.
 
@@ -18,8 +18,8 @@ android.nonFinalResIds=false
 <uses-permission android:name="android.permission.INTERNET" />
 ** In manifest add:
 <application
-…
+â€¦
 android:usesCleartextTraffic="true"
-…
+â€¦
 </application>
 
